@@ -10,7 +10,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   getRandomColor();
 
-  // Assuming that changeColorBtn and colorBox are defined in the HTML
   let changeColorBtn = document.getElementById("change-color-btn");
   let colorBox = document.getElementById("color-box");
 
